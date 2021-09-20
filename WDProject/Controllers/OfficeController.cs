@@ -16,5 +16,10 @@ namespace WDProject.Controllers
             var db = DBConnection.DisplayHoliday();
             return View(db);
         }
+
+        //public ActionResult CheckWorkingDay()
+        //{
+        //    return View();
+        //}
     }
 }
