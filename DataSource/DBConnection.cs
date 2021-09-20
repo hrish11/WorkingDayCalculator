@@ -61,5 +61,9 @@ namespace DataSource
 
             return dt;
         }
+        static void Main(string[] args)
+        {
+
+        }
     }
 }
